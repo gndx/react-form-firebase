@@ -1,0 +1,37 @@
+{
+  "name": "react-form-firebase",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "firebase": "^4.6.2",
+    "react": "^16.1.0",
+    "react-dom": "^16.1.0",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "Simple form with Firebase",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gndx/react-form-firebase.git"
+  },
+  "keywords": [
+    "react",
+    "firebase",
+    "gndx",
+    "contact",
+    "form"
+  ],
+  "author": "Oscar Barajas <oscar@dragons.mx>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gndx/react-form-firebase/issues"
+  },
+  "homepage": "https://github.com/gndx/react-form-firebase#readme"
+}
